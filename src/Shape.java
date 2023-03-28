@@ -1,3 +1,3 @@
 public interface Shape {
-    public void printName();
+    public String printName();
 }
